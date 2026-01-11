@@ -76,7 +76,7 @@ wsl --install
 
 3. Install the specific Ubuntu distribution required for ROS 2 Humble:
 ```powershell
-wsl --install ubuntu-22.04
+wsl --install -d Ubuntu-22.04
 
 ```
 Wait till it download and installization (almost 35Min) 
